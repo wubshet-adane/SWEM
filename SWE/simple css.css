@@ -1,0 +1,49 @@
+
+body{
+   background-color:pink;
+   background-image:url('military.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+div{
+	background-color:#f63fff;
+}
+.gender,.legend{font-size:50px;
+color:purple;
+	font-size:30px;
+}
+#pictureform{
+	display:-webkit-inline-flex;
+	padding: 50px; 
+	border-radius: 80px;
+	padding-top: 20px;
+	margin-right:5px;
+	margin-left: 20px;
+	color: rgb(204, 213, 216);
+	background-color: rgb(127, 255, 227);
+	text-align: center;
+	font-size: 55px; 
+}
+.sss{
+    display: -webkit-flex;
+}
+#sss{
+	background-image:url('waw.jpg'); 
+	display:-webkit-flex;
+	border-radius: 80px;
+	padding-top: 80px;
+}
+.eee{
+	 background-image: url('WUBSHET\ 3D.png'); 
+	 border-radius: 900px;
+	 padding: 100px;
+	 margin-right:100px;
+	 margin-left: 100px;
+	 color: rgb(5, 200, 18);
+	 background-color: rgb(127, 255, 227);
+	 text-align: center;font-size: 55px; 
+}
+
+.div2{
+	background-image: url('waw.jpg');
+}
