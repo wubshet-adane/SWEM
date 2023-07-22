@@ -1,0 +1,115 @@
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(243, 241, 237);
+    margin: 0;
+ }
+ #logo1:hover{
+   transition: 0.3s ease-in;
+   transform: scale(2);
+   cursor: pointer;
+ }
+ .hompageheader{
+    
+    background-color:darkgray ;
+ }
+
+ #h1font{
+    font-size: 80px;
+    text-align: center;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ #sectionlink{
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: row-reverse;
+    text-indent: 10px;
+    font-size: 40px;
+    background-color: rgb(47, 255, 57);
+    width: 100%;
+   
+ }
+ #aa:hover{
+    background-color:white;
+    padding: 25px;
+    color: green;
+    border-radius: 10px;
+}
+ .nav_box{
+    display:-webkit-inline-box;  
+    background-color: aqua;
+    border: 20px dotted green;
+    height: 450px;
+    width: 520px; 
+    font-size: 30px;
+    padding-right: 30px;
+    margin-right: 160px;
+    margin-top: 20px; 
+    float: right;
+    border-radius: 1000px;
+    box-shadow: 6px 7px 4px 3px rgba(10, 10, 23, 0.679);
+    }
+ .div_box{
+    height: 480px;
+    width: 500px;
+    margin-top: 20px;
+    margin-right: 100px;
+    box-shadow:10px 11px 6px rgba(10, 10, 23, 0.679);
+    z-index: -3;    
+ 
+ }
+
+ #aaa{
+    color:darkgreen;
+  }
+
+ #aaa:visited{
+      color: white; 
+      font-family:'Courier New', Courier, monospace; 
+ }
+ #aaa:active{
+        color: blue;
+ }
+ #aaa:hover{
+    padding: 15px;
+    padding-left: 40px;
+    color: rgb(14, 2, 236);
+    background-color: darkcyan;  
+    
+ }
+ #yearlink{
+    background-color:rgba(248, 248, 255, 0.679);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:aqua;
+    
+ }
+ #yealink{
+   /* background-color:rgba(248, 248, 255, 0.679);*/
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+    color:aqua;
+    float: left;
+    padding-right: 20px;
+ }
+ .yealink{
+    background-color: 0;
+    text-align:start ;
+    margin-right: 12px;
+ }
+
+ .advert{ /*
+   width: 1000px;
+   height: 2000px;
+   z-index: 2;
+  ackground-image: url('global.png');
+   background-position: 3000px 200px;
+   background-position: fixed;*/
+ }
+ .firstfooter{
+    margin-left: 0%;
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+    background-color: dimgrey;
+ }
